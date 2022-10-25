@@ -1,3 +1,3 @@
 import { findBestProfitPrices } from "./maxProfit";
 
-findBestProfitPrices([0]);
+findBestProfitPrices([1]);

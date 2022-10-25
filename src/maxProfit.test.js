@@ -1,6 +1,6 @@
 import { findBestProfitPrices } from "./maxProfit";
 
-if (false) {
+if (true) {
   test("Best Prfit - basic", () => {
     expect(findBestProfitPrices([1, 2, 3, 4, 3, 2, 1, 2, 5])).toEqual([1, 5]);
   });
